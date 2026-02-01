@@ -98,7 +98,7 @@ function NavBar() {
             {/* --- GITHUB FORK BUTTON --- */}
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/KhanArafat/myportfolio"
+                href="https://github.com/KhanArafat/just-a-repo"
                 target="_blank"
                 className="fork-btn-inner"
               >

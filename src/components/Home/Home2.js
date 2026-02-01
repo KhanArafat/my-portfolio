@@ -37,7 +37,7 @@ function Home2() {
               <br />
               <br />
               I have experience developing products like
-              <b className="purple"> Media Assistant AI</b> and I'm
+              <b className="purple"> MediAssist AI</b> and I'm
               <i>
                 <b className="purple">
                   {" "}
